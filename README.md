@@ -1,10 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Faris, an enthusiastic Android developer with a passion for creating engaging and user-friendly mobile applications. I love diving into the world of Java and Kotlin to bring innovative ideas to life on the Android platform.
-
-Recently, I've embarked on a new journey to expand my development skills. I've taken a keen interest in React, where I'm excited to explore the world of web development and create dynamic and interactive user interfaces.
-
-Additionally, I'm also delving into backend development to enhance my full-stack capabilities. With a focus on building robust and scalable server-side applications, I'm eager to leverage technologies like Node.js, Java Spring Boot, or C# ASP.Net Core Web Api to craft efficient and reliable backend systems.
-
+I'm a full-stack web and software developer, gradually shaping my vision of the digital realm. Each coding project I undertake begins with careful planning and design, culminating in solutions to real-world challenges through code. While many of my projects remain private, I've shared a select few public repositories here, primarily showcasing older projects that I developed while exploring new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/faris-rizvanovic-1a232713a/) 
@@ -35,6 +30,7 @@ Additionally, I'm also delving into backend development to enhance my full-stack
 ### 🗄️ Databases: 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🖥️ IDE-s:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
